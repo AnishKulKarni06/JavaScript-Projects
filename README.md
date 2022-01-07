@@ -1,3 +1,4 @@
 # JavaScript-Projects
-Intresting Javascript projects
-1.Drum Kit
+Intresting Javascript projects <br>
+1.Drum Kit<br>
+2.JS Clock<br>
